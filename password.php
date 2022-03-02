@@ -2,6 +2,8 @@
 
           /**
             * Responsive Webshell
+	    * Logout Use Methode GET
+	    * shell.php?logout
           **/
 
 $a =   [
