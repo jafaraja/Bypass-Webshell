@@ -431,8 +431,8 @@ $dirs = $func[18]($path);
               <?php endforeach; ?>
             </tbody>
           </table>
-          <div class="text-light">&#169; BlackDragon <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script></div>
         </div>
+        <div class="text-light">&#169; BlackDragon <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script></div>
       </div>
     </div>
   </div>
